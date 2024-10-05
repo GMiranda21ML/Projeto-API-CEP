@@ -16,6 +16,5 @@ public class ArquivoJson {
         writer.write(gson.toJson(endereco));
         writer.close();
 
-
     }
 }

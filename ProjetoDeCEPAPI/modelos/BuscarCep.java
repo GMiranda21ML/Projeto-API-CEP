@@ -25,10 +25,5 @@ public class BuscarCep {
             throw new RuntimeException("Não foi possivel obter esse CEP e achar o endereco!");
         }
 
-
-
     }
-
-
-
 }
